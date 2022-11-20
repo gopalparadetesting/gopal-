@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="com.hrms.testscript.TC001" />
+        <class name="com.hrms.testscript.TC002" />
+         <class name="com.hrms.testscript.TC003" />
+          <class name="com.hrms.testscript.TC004" />
+    </classes>
+  </test>
+</suite>
